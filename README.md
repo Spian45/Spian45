@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I’m Muh. Ibnu! 👋<br><br>I’m a developer and student based in Makassar, currently studying at UMI. I enjoy building backend tools, automating tasks, and managing game servers.<br><br>What I’m up to:<br>- 🎓 Studying at UMI (Universitas Muslim Indonesia).<br>- ⛏️ Creating server scripts and managing Minecraft servers (including cross-platform networks like NOCTYRA).<br>- 💻 Building web projects and writing automation scripts.<br><br>Tech I work with:<br>- PHP, JavaScript, HTML<br>- PowerShell & Server Administration<br>- Bukkit/Spigot Plugin Configuration
+Hi there, I’m Muh. Ibnu! 👋<br><br>I’m a developer and student based in Makassar, currently studying at [UNIVERSITY]. I enjoy building backend tools, automating tasks, and managing game servers.<br><br>What I’m up to:<br>- 🎓 Studying at UMI (Universitas Muslim Indonesia).<br>- ⛏️ Creating server scripts and managing Minecraft servers (including cross-platform networks like NOCTYRA).<br>- 💻 Building web projects and writing automation scripts.<br><br>Tech I work with:<br>- PHP, JavaScript, HTML<br>- PowerShell & Server Administration<br>- Bukkit/Spigot Plugin Configuration
 
 
 ## 🌐 Socials:
